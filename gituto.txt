@@ -1,0 +1,10 @@
+clic droit ouvrir git bash
+
+
+git touch = creer un nouveau fichier
+git add tonfichier.php = ajouter temporairement 
+git add . = ajoute 
+
+git status 
+
+git commit . = pour tout ajouter réelement 
